@@ -22,7 +22,8 @@ Desenvolver com apena com **HTML,CSS e JS** o seguinte vetor de smartphone: http
 
 * Utilizar **QUALQUER** préprocessador de CSS que você preferir (LESS, SCSS e etc).
 * Utilizar **QUALQUER** framework de javascript (jQuery, Angular, Vuejs e etc).
-* Utilizar Font-awesome **APENAS** para os ícones de Rede de Área, Bateria e Câmera.
+* Utilizar Font-awesome **APENAS** para os ícones de Rede, Bateria e Câmera.
+* Utilizar **QUALQUER** automatizador de front como Grunt ou Gulp.
 
 **Descritivo do escopo:**
 
