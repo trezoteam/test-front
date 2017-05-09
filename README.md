@@ -33,6 +33,8 @@ Tela 2: http://i.imgur.com/D1Kipvc.png
 
 Na Tela 1, ao clicar no botão "clique para desbloquear" deve ser feito uma requisição a API do github (https://api.github.com/users/<username>) e na Tela 2 exibir no lugar da imagem do usuário seu avatar do Github e também seu nome e e-mail que você recebeu da API.
 
+Em casos de dúvida criar um issue nesse repositório :)
+
 **Nossas espectativas:**
 
 * Utilizar animações e transições na mudanças de tela 1 para tela 2.
