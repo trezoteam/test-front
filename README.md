@@ -1,12 +1,17 @@
 # Desafio para Vaga de Frontend
 
-Vem ser #TrezoTeam! Nosso café está sempre fresquinho, nosso almoço tem comida caseira preparada com muito amor e carinho e ainda temos lanche a tarde!
+## Vem ser #TrezoTeam!
+Nosso café está sempre fresquinho, nosso almoço tem comida caseira preparada com muito amor e carinho e ainda temos lanche a tarde!
 Estamos procurando alguém que: Tenha boa comunicação e empatia; Goste de aprender; Tenha auto motivação e pro-atividade; Consiga se virar bem no inglês; Talvez tenha noções de e-commerce; Pense grande ;)
-Encaminhe seu currículo para contato@trezo.com.br e coloque no assunto “Quero ser #TrezoTeam“, anexado com a proposta salarial.
+Encaminhe seu currículo para vagas@trezo.com.br e coloque no assunto “Quero ser #TrezoTeam“, anexado com a proposta salarial.
 
 ## Skill's necessários:
 
-* HTML, CSS e JS
+* Conhecimento em HTML(5) e CSS(3) responsivo
+* Conhecimento avançado em Javascript
+* Desenvolvimento cross-plataforma
+* Confortável trabalhando com o controle de versão (Git)
+* Morar ou estar disposto a mudar-se para Blumenau/SC
 
 ## Diferênciais:
 
@@ -15,10 +20,12 @@ Encaminhe seu currículo para contato@trezo.com.br e coloque no assunto “Quero
 * Conhecimento na plataforma Magento
 * Participado em projetos WEB
 * Pré-processadores (LESS, SASS e etc)
+* Conhecimento em frameworks JS como e AngularJS, React, etc;
+* Experiência com UI e UX
 
 ## Sobre o Teste:
 
-Desenvolver com apena com **HTML,CSS e JS** o seguinte vetor de smartphone: http://i.imgur.com/tiax7oK.png, nele você pode:
+Desenvolver com apenas **HTML,CSS e JS** (mínimo) o seguinte vetor de smartphone: http://i.imgur.com/tiax7oK.png, nele você pode:
 
 * Utilizar **QUALQUER** préprocessador de CSS que você preferir (LESS, SCSS e etc).
 * Utilizar **QUALQUER** framework de javascript (jQuery, Angular, Vuejs e etc).
@@ -41,8 +48,9 @@ Em casos de dúvida criar um issue nesse repositório :)
 * Ter algum efeito de animação no botão "clique para desbloquear".
 * Exibir a hora atual do navegador na tela 1 no idioma padrão do navegador.
 
-Criatividade para novas funcionalidades não descritas acima valerão pontos.
+Criatividade para novas funcionalidades, não descritas acima, valerão pontos. Sinta-se a vontade nesse quesito para fluir suas habilidades.
 
 Para participar basta fazer um Fork desse repositório e dá-lhe, após a conclusão enviar um pull-request com suas informações adicionadas no arquivo **Candidato.md**.
+
 
 Boa sorte!
