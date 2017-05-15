@@ -20,7 +20,7 @@ Encaminhe seu currículo para vagas@trezo.com.br e coloque no assunto “Quero s
 * Conhecimento na plataforma Magento
 * Participado em projetos WEB
 * Pré-processadores (LESS, SASS e etc)
-* Conhecimento em frameworks JS como e AngularJS, React, etc;
+* Conhecimento em frameworks JS como jQuery, AngularJS, React, etc;
 * Experiência com UI e UX
 
 ## Sobre o Teste:
