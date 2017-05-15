@@ -25,7 +25,7 @@ Encaminhe seu currículo para vagas@trezo.com.br e coloque no assunto “Quero s
 
 ## Sobre o Teste:
 
-Desenvolver com apenas **HTML,CSS e JS** (mínimo) o seguinte vetor de smartphone: http://i.imgur.com/tiax7oK.png, nele você pode:
+Desenvolver com apenas **HTML,CSS e JS** (mínimo) o seguinte vetor de smartphone: [IMAGEM](/images/smartphone.png), nele você pode:
 
 * Utilizar **QUALQUER** préprocessador de CSS que você preferir (LESS, SCSS e etc).
 * Utilizar **QUALQUER** framework de javascript (jQuery, Angular, Vuejs e etc).
@@ -34,9 +34,11 @@ Desenvolver com apenas **HTML,CSS e JS** (mínimo) o seguinte vetor de smartphon
 
 **Descritivo do escopo:**
 
-Tela 1: http://i.imgur.com/tiax7oK.png
+Tela 1: 
+![Tela 1](/images/smartphone.png)
+Tela2: 
+![Tela 2](/images/smartphone2.png)
 
-Tela 2: http://i.imgur.com/D1Kipvc.png
 
 Na Tela 1, ao clicar no botão "clique para desbloquear" deve ser feito uma requisição a API do github (https://api.github.com/users/<username>) e na Tela 2 exibir no lugar da imagem do usuário seu avatar do Github e também seu nome e e-mail que você recebeu da API.
 
